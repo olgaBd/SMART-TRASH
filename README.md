@@ -16,8 +16,8 @@ Ce projet à été réalisé par [@WiLDCaT](https://github.com/wildcat7534); [@O
 
 ## SCHEMA ELECTRIQUE
 
-![photo: ]()
+![photo: ](smarttrash.jpg)
 
 ## NODE-RED
 
-![photo: ](smarttrash.jpg)
+![photo: ]()
