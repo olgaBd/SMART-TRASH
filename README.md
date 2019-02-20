@@ -2,7 +2,7 @@
 Ce projet à été réalisé par [@WiLDCaT](https://github.com/wildcat7534); [@OlgaBd](https://github.com/olgaBd)
 
 ## VIDEO
-![: ] (https://youtu.be/WfB8pfKr62g)
+[!:[video](https://youtu.be/WfB8pfKr62g/0.jpg)](https://youtu.be/WfB8pfKr62g)
 
 ## BIBLIOTHEQUE UTILISEE
 + HCSR04.h
