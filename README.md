@@ -11,7 +11,7 @@ Ce projet à été réalisé par [@WiLDCaT](https://github.com/wildcat7534); [@O
 + Adafruit_MQTT_Client.h
 + uTimerLib.h
 
-## MATERIE
+## MATERIEL
 - Bread Bord
 - Carte ESP32
 - Capteur De Proximité (HC-SR04)
